@@ -1,4 +1,4 @@
-# user-basic-service
+# notification-basic-service
 
 build docker
 docker build . -t acrwebdev/notification-basic-service
