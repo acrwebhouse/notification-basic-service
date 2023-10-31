@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "apn": "^2.2.0",
     "async": "^2.1.4",
     "body-parser": "^1.15.2",
     "cors": "^2.8.5",
