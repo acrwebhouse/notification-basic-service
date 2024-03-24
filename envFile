@@ -7,3 +7,4 @@ APNS_TEAM_ID=
 APNS_TYPE=production
 APNS_KEY_PATH=
 APNS_KEY_TOPIC=realtor-lease-platform-ios
+FCM_AUTHORIZATION=
